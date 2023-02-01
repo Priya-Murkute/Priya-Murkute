@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 
    🌈 Let's stay connected via [LinkedIn](https://www.linkedin.com/in/priya-murkute-5880ab146)
 
-<!--
 ### Some Stats here :)
 
 <a href="https://github.com/Priya-Murkute">
@@ -39,7 +38,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/Priya-Murkute">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutujak24&theme=onedark&langs_count=8&layout=compact" />
 </a>
--->
 
 ### My Skill-Set
 <img width="43%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
