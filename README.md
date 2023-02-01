@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!-- A Passionate engineer to achieve goals and work towrads success -->
 
 <a href="https://github.com/Priya-Murkute" target="_blank">
- <img align="center" src="https://github.com/Priya-Murkute/PriyaMurkute07/blob/main/banner.jpg" />
+ <img align="center" src="https://github.com/Priya-Murkute/Priya-Murkute/blob/main/banner.jpg" />
 </a>
 
 ###
