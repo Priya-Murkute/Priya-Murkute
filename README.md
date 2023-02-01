@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 ### Some Stats here :)
 
 <a href="https://github.com/Priya-Murkute">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rutujak24&show_icons=true&theme=dracula&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Priya-Murkute&show_icons=true&theme=dracula&count_private=true" />
 </a>
 <a href="https://github.com/Priya-Murkute">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rutujak24&theme=onedark&langs_count=8&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priya-Murkute&theme=onedark&langs_count=8&layout=compact" />
 </a>
 
 ### My Skill-Set
@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/Priya-Murkute">
 <img src="https://img.shields.io/badge/WebdriverIO%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />
 </a>
-<a href="https://github.com/Priya-Murkute">
+<!-- <a href="https://github.com/Priya-Murkute">
 <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
 </a>
 <a href="https://github.com/Priya-Murkute">
@@ -109,7 +109,7 @@ Here are some ideas to get you started:
 </a>
 <a href="https://github.com/Priya-Murkute">
 <img src="https://img.shields.io/badge/flask%20-%23FF6F00.svg?&style=for-the-badge&logo=flask&logoColor=white" />
-</a>
+</a> -->
 
 
 
